@@ -1,0 +1,26 @@
+<pre>
+        <h1>
+            <p>abc</p>
+            <strong>cde</strong>
+            <strong>htgytgy</strong>
+            <from actio="get"></from>
+            full name:<br>
+            <inpute type="text"placeholder="enter your nmae"
+            <br><br> last name:<br>
+            <input type="text"<br> phone no:<br>
+            <input type="number" placeholder="phone number"><br>
+            <input type="date"name ,id">
+            <br>time :<input type="time"placeholder="time">
+            <br>
+            gender:<input type="radio" name="gender" values="male>"
+            <input type="radio"name="gender" value="femail">
+            <input type="radio"name="gender"values="other">
+            <select nmae="city" id="">
+
+            </select>
+        </h1>
+    </pre>
+    
+</from>
+</body>
+</html>
